@@ -55,6 +55,14 @@ It will produce a CSV with rows like:
 | Canara Bank     | Bank            | Bank            | Main Road, Sankaraperi | +91-123456 | https://canarabank.com | 8.73456      | 77.89456      | Active             | 45            | maps.google.com/... |
 | Apollo Hospital | Hospital        | Hospital        | XYZ Nagar, Sankaraperi | +91-987654 | https://apollo.com     | 8.73567      | 77.89567      | Temporarily Closed | 230           | maps.google.com/... |
 
+
 ---
+
+## 📧 Contact / Services
+
+👉 If you want the full working script, please mail us at:  
+**geotathya@proton.me**  
+
+We can also scrape data on your behalf as a service.  
 
 
